@@ -1,0 +1,21 @@
+MSW
+Modern SignWriting
+Formal Specification
+Version 1 series
+January 12th, 2012
+
+Stephen E Slevinski Jr
+http://www.signpuddle.net
+slevin@signpuddle.net
+
+SignWriting is the universal script for writing any sign language. Sign languages are human languages based on visual gestures. Sign languages have proven to have many of the uses and benefits of other voiced and written languages, as well as other uses and benefits unique to sign language alone.
+
+Modern SignWriting is a faithful encoding of SignWriting that is stable by design. It is based on the glass-box idea where all necessary information is available to understand input, processing, and output. We can faithfully predict the results of any processing without having to use a computer. The algorithms have been optimized for flexibility, accuracy, simplicity, and speed.
+
+Files
+-----
+MSW.odt - main OpenDocument Text file
+MSW.pdf - printed version of MSW.pdf
+
+Version History
+1.0.0-alpha.8 January 12th, 2012: first release on GitHub
