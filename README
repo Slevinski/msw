@@ -15,7 +15,7 @@ Modern SignWriting is a faithful encoding of SignWriting that is stable by desig
 Files
 -----
 MSW.odt - main OpenDocument Text file
-MSW.pdf - printed version of MSW.pdf
+MSW.pdf - printed version of MSW.odt
 
 Version History
 1.0.0-alpha.8 January 12th, 2012: first release on GitHub
