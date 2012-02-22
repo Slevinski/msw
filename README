@@ -18,4 +18,5 @@ MSW.odt - main OpenDocument Text file
 MSW.pdf - printed version of MSW.odt
 
 Version History
+1.0.0-beta.1 February 22nd, 2012: first beta release
 1.0.0-alpha.8 January 12th, 2012: first release on GitHub
